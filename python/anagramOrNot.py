@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# This script will take two strings as an anagram and print out wether or not they are anagrams.
+# This script will take two strings as an anagram and print out whether or not they are anagrams.
 
 # First we make both strings lower case to standardise them
 str1 = sorted(str(input("Please enter the first string:\n")).lower())
